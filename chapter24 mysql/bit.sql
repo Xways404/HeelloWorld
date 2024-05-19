@@ -1,0 +1,5 @@
+#bit型の使い方
+
+CREATE TABLE t05 (num BIT(8));
+INSERT INTO t05 VALUES(3);
+SELECT * FROM t05;
